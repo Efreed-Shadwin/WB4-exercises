@@ -1,2 +1,2 @@
 "use strict";
-let family = ["John","Jane","Sally","Billy","Dina"];
+let family = ["John", "Jane", "Sally", "Billy", "Dina"];
